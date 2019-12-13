@@ -1,2 +1,2 @@
 # portfolio
-My portfolio and devlogs
+My portfolio and personal website
