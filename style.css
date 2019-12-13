@@ -43,7 +43,8 @@ li {
     transition: .1s ease all;
     width: calc(400px - 20px);
 }
-.col-item a:hover {
+.col-item:hover {
     background: #4bcce6;
     border: 1px solid  #4bcce6;
+    box-shadow: 4px 10px 0 0 #9daeb8;
 }
